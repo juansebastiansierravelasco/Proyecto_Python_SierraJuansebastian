@@ -1,0 +1,16 @@
+[
+    {
+        "materia": "robotica",
+        "dia": "martes",
+        "hora_inicio": "2:00",
+        "hora_fin": "3:00",
+        "ubicacion": "sala305"
+    },
+    {
+        "materia": "programacion",
+        "dia": "sabado",
+        "hora_inicio": "14:00",
+        "hora_fin": "15:00",
+        "ubicacion": "laboratorio de computo"
+    }
+]
